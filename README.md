@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome to Saurabh's profile! 👋
-
+![Saurabh's Photo](https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?size=626&ext=jpg)
 ### A Quick Learner
 
 - 🎓 Graduated with a BE in Computer Engineering from GHRIEM From Jalgaon.
@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 
-![Alt text](https://img.shields.io/badge/Label-Color?style=flat&logo=LogoName&logoColor=LogoColor)
+
